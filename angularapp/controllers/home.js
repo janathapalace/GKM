@@ -40,9 +40,9 @@ function getScreenWidth(){
  vm.slides = [
             {'src': 'images/screen5.png'},
             {'src': 'images/slide6.jpg'},
-            {'src': 'images/slide6.jpg'},
-            {'src': 'images/slide6.jpg'},
-            {'src': 'images/slide6.jpg'}
+            {'src': 'images/slide7.jpg'},
+            {'src': 'images/slide8.jpg'},
+            {'src': 'images/slide9.jpg'}
         ];
 
         vm.options = {
