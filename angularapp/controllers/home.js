@@ -38,11 +38,11 @@ function getScreenWidth(){
 
  function findscreen(h,w){
  vm.slides = [
-            {'src': 'images/screen1.png'},
-            {'src': 'images/slide2.jpg'},
-            {'src': 'images/slide3.jpg'},
-            {'src': 'images/slide4.jpg'},
-            {'src': 'images/slide5.jpg'}
+            {'src': 'images/screen5.png'},
+            {'src': 'images/slide6.jpg'},
+            {'src': 'images/slide6.jpg'},
+            {'src': 'images/slide6.jpg'},
+            {'src': 'images/slide6.jpg'}
         ];
 
         vm.options = {
